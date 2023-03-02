@@ -16,6 +16,6 @@ public class WordCountMap {
      */
     public Map<String, Integer> returnWordMap(String words){
 
-        return null;
+        return "test";
     }
 }
